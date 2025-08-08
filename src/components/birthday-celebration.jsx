@@ -26,7 +26,7 @@ export default function BirthdayCelebration() {
           <Sparkles className="w-8 h-8 text-yellow-500" />
           <Heart className="w-8 h-8 text-pink-500" />
         </div>
-        <h3 className="text-2xl sm:text-3xl font-bold text-center text-pink-600 mt-2">To You Nibras</h3>
+        <h3 className="text-2xl sm:text-3xl font-bold text-center text-pink-600 mt-2">Ocyenic!</h3>
       </motion.div>
 
       <motion.div
@@ -88,12 +88,9 @@ export default function BirthdayCelebration() {
             >
               <div className="text-center">
                 <p className="text-purple-700 mb-2">
-                Just wanted to remind you that you're incredibly special — not just today, but every single day.
+                Just wanted to remind you—you're my favorite person. You are truly one of one rare kind. Your kindness, your calm presence, and your thoughtful soul brings peace just by being around you. This world is a better place with you in it.
                 </p>
-                <p className="text-pink-600 font-medium">Nibras, I hope your every single days are filled with love, warmth, and all the quiet little things that make you feel at peace — and everything that makes you smile, without even realizing it. 💖
-
-
-</p>
+                <p className="text-pink-600 font-medium">I hope your every single day is full of love, magic, and everything that makes you smile 💖</p>
                 <div className="flex justify-center">
                   <motion.div
                     animate={{
@@ -121,16 +118,11 @@ export default function BirthdayCelebration() {
       >
         <div className="text-center">
           <p className="text-lg text-purple-700 mb-4">
-          You deserve every soft, good thing life has to offer.
-Even the quiet hopes you don’t speak out loud — the peace, the joy, all of it.
-And if you ever forget that, I’ll still be here to remind you.
-
-
+          May every wish you make today come true. You deserve the world, and I’ll always be here to remind you of that.
           </p>
           <div className="flex justify-center items-center gap-2">
-            <p className="text-pink-600 font-medium">“It’s nothing much, just something small I put together. Hope you like it.”
-            16 JULY ,2025
-            </p>
+            <p className="text-pink-600 font-medium">Let’s always stay like this...🫶  
+                    Thanks for being you — and happy birthday once again!</p>
           </div>
         </div>
       </motion.div>
